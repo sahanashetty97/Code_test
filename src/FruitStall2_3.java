@@ -1,4 +1,4 @@
-public class FruitStandMinCost {
+public class FruitStall2_3 {
     public static void main(String[] args) {
         int[] cherryPrices = {5, 6, 4};    // Prices of cherries at each fruit stand
         int[] peachPrices = {8, 7, 9};     // Prices of peaches at each fruit stand

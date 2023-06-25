@@ -1,5 +1,4 @@
 public class FruitStall4 {
-
     public static void main(String[] args) {
         String[] fruitStands = {"Fruit Stand 1", "Fruit Stand 2", "Fruit Stand 3", "Fruit Stand 4"}; // Names of fruit stands
         int[] cherryPrices = {10, -1, 8, 15}; // Prices of cherry baskets at each fruit stand (-1 indicates unavailability)
