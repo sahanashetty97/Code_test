@@ -1,7 +1,7 @@
 public class FruitStall1 {
     public static void main(String[] args) {
-        int[] cherryRate = {10, 12, 9, 15}; // Prices of cherry baskets at each fruit stand
-        int[] peachRate = {8, 10, 12, 14}; // Prices of peach baskets at each fruit stand
+        int[] cherryRate = {11, 12, 9, 15}; // Prices of cherry baskets at each fruit stand
+        int[] peachRate = {8, 4, 12, 14}; // Prices of peach baskets at each fruit stand
 
         int minCost = Integer.MAX_VALUE;
         int minCostIndex = -1;
